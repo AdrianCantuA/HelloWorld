@@ -19,6 +19,7 @@ ITC
 - John Adams
 - Thomas Jefferson
 
+![image](https://user-images.githubusercontent.com/89538415/143987510-bdd21b3a-62c8-4c70-849d-5babbd9d54dd.png)
 
 '''c++
 
