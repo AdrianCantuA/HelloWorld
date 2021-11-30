@@ -8,15 +8,21 @@ Ingeniero en Tecnologías Computacionales
 A01284917
 ITC
  
+ 
+| Juan          | Adrian        |
+| ------------- | ------------- |
+| 10            | 20            |
+| 14            | 12            |
+ 
 '''c++
 
-#include <iostream>
-#include "Reloj.hpp"
+# include <iostream>
+# include "Reloj.hpp"
 
-int n,c;
+ int n,c;
 
 
-int main(int argc, const char * argv[]) {
+ int main(int argc, const char * argv[]) {
 
     Reloj reloj;
     while (n!=7){
