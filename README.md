@@ -13,11 +13,17 @@ ITC
 | ------------- | ------------- |
 | 10            | 20            |
 | 14            | 12            |
- 
+
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+
 '''c++
 
-# include <iostream>
-# include "Reloj.hpp"
+ #include <iostream>
+ #include "Reloj.hpp"
 
  int n,c;
 
